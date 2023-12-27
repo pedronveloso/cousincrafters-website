@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cousin Crafters
-    subtitle: "We’re about to embark on our journey to give you great technical solutions, but we still need some time to perfect our digital playout! 🚀🛠️"
+    subtitle: "We’re about to embark on our journey to give you great technical solutions, but we still need some time to perfect our digital playground! 🚀🛠️"
     imageUrl: "kitten.gif"
     imageWidth: 240
     imageHeight: 240
